@@ -28,5 +28,3 @@ Welcome to the **Real-time System Monitoring Dashboard**, an interactive and mod
 - 📉 **Matplotlib & Seaborn** – Visualizing performance metrics
 - 🤖 **Scikit-learn & TensorFlow** – Machine learning for forecasting
 - 🔄 **Axios** – Server-side API interactions
-- 🗄️ **Database** – MongoDB/PostgreSQL
-- 🚢 **Deployment** – Vercel for frontend, Render/Heroku for backend
